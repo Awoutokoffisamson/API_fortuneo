@@ -239,5 +239,5 @@ vous pouvez voir le rendu avec une application que nous avons déployé sur http
 ## Source des données
 
 - Base de données : [GitHub](https://github.com/Awoutokoffisamson/machine_learning2_Documents/blob/main/Churn_Modelling.csv)
-- Modèle : [Google Drive](https://drive.google.com/file/d/1aSFJ-Vc9VsX1dH-dYAiKVxX1SPdARZMX/view)
+- Modèle : [Google Drive](https://drive.google.com/file/d/1JZji6K_r-Msko1xuk3R9ONycgPtliSK2/view)
 
