@@ -25,12 +25,13 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 
 L'API sera accessible à l'adresse : http://localhost:8000
+dans notre cas après l'avoir déployé on peut y accéder sur : https://machinelearning2api.onrender.com
 
 ## Documentation interactive
 
 Une fois l'API lancée, vous pouvez accéder à la documentation interactive Swagger UI à l'adresse :
 http://localhost:8000/docs
-
+dans notre cas après l'avoir déployé on peut y accéder sur : https://machinelearning2api.onrender.com/docs#/
 ## Endpoints
 
 ### Statut de l'API
@@ -233,6 +234,7 @@ Retourne des statistiques sur les données de churn.
 ## Intégration avec l'application Streamlit
 
 Cette API est conçue pour être utilisée avec l'application Streamlit de prédiction de churn de Fortuneo Banque. Pour intégrer l'API à l'application, consultez le guide d'utilisation fourni.
+vous pouvez voir le rendu avec une application que nous avons déployé sur https://application-de-churn-fortuneo.streamlit.app
 
 ## Source des données
 
